@@ -3,14 +3,22 @@
 <!--
 **riya-eng01/riya-eng01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Riya 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I am a Computer Science Student
+
+💻 Aspiring Software Developer passionate about building practical and user-friendly applications.
+
+### 🌱 Currently Learning
+- MERN Stack Development
+- Data Structures & Algorithms in Java
+- AI/ML fundamentals and concepts
+- Integrating AI-powered features into web applications
+
+### 🚀 Goals
+- Build impactful full-stack projects
+- Strengthen problem-solving skills
+- Explore the intersection of Web Development and AI
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/riya-singh-49304436b/
