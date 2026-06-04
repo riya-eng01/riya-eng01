@@ -1,8 +1,3 @@
-## Hi there 👋
-
-
-**riya-eng01/riya-eng01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Riya 👋
 
 🎓 I am a Computer Science Student
